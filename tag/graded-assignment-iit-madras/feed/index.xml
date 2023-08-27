@@ -12,7 +12,7 @@
 	<atom:link href="/tag/graded-assignment-iit-madras/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>IITM Student Community is created to help students to get better grades in their final examinations by providing Course lectures, Graded Assignment Solutions</description>
-	<lastBuildDate>Wed, 23 Aug 2023 07:20:43 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Aug 2023 18:17:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -143,6 +143,18 @@
 		</div>
 							</div>
 		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f279bd0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f279bd0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7a44ff4" data-id="7a44ff4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b21faa3 elementor-widget elementor-widget-text-editor" data-id="b21faa3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m1/Week-1-IIT-Madras-Maths-Graded-Assignments_1.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m1/Week-1-IIT-Madras-Maths-Graded-Assignments_2.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m1/Week-1-IIT-Madras-Maths-Graded-Assignments_3.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m1/Week-1-IIT-Madras-Maths-Graded-Assignments_4.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m1/Week-1-IIT-Madras-Maths-Graded-Assignments_5.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m1/Week-1-IIT-Madras-Maths-Graded-Assignments_6.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m1/Week-1-IIT-Madras-Maths-Graded-Assignments_7.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m1/Week-1-IIT-Madras-Maths-Graded-Assignments_8.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m1/Week-1-IIT-Madras-Maths-Graded-Assignments_9.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m1/Week-1-IIT-Madras-Maths-Graded-Assignments_10.jpg" width="816" height="1056" /></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-6380019 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6380019" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3a27496" data-id="3a27496" data-element_type="column">
@@ -152,7 +164,7 @@
 					<div class="elementor-button-wrapper">
 			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://drive.google.com/drive/folders/1MeV9PzGiNoPB8aWlH8xtGAkSphvLcSmQ?usp=drive_link" target="_blank" rel="noopener">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Week 1 Graded Solutions </span>
+						<span class="elementor-button-text">Week 1 Full Graded Solutions </span>
 		</span>
 					</a>
 		</div>

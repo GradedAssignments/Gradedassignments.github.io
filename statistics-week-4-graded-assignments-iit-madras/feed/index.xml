@@ -17,5 +17,33 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	
-</channel>
+	<item>
+		<title>
+		By: Riya		</title>
+		<link>/statistics-week-4-graded-assignments-iit-madras/#comment-6</link>
+
+		<dc:creator><![CDATA[Riya]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2023 18:55:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=548#comment-6</guid>
+
+					<description><![CDATA[Osm <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" />]]></description>
+			<content:encoded><![CDATA[<p>Osm 😍</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Anupam Gupta		</title>
+		<link>/statistics-week-4-graded-assignments-iit-madras/#comment-5</link>
+
+		<dc:creator><![CDATA[Anupam Gupta]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2023 18:54:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=548#comment-5</guid>
+
+					<description><![CDATA[Thanks <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f60a.png" alt="😊" class="wp-smiley" style="height: 1em; max-height: 1em;" />]]></description>
+			<content:encoded><![CDATA[<p>Thanks 😊</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

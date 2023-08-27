@@ -6,7 +6,7 @@
 	</url>
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-08-13T16:57:18+00:00</lastmod>
+		<lastmod>2023-08-26T17:00:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Untitled-design-2-1024x1024.png</image:loc>
 		</image:image>
@@ -21,46 +21,12 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/iit-madras-graded-assignments/</loc>
-		<lastmod>2023-08-22T09:30:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/qualifier-coaching/</loc>
-		<lastmod>2023-08-22T08:11:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/banner-right-image.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/iit-madras-pyq/</loc>
-		<lastmod>2023-08-14T13:11:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/PYQ.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/contact-us/</loc>
-		<lastmod>2023-08-13T07:05:35+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/iit-madras-whatsapp-group-link/</loc>
-		<lastmod>2023-08-13T07:05:35+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/refund-policy/</loc>
-		<lastmod>2023-08-13T06:49:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/maths-week-9-graded-assignments-iit-madras/</loc>
-		<lastmod>2023-08-12T06:55:37+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/privacy-policy/</loc>
-		<lastmod>2023-08-12T05:56:40+00:00</lastmod>
+		<loc>/iit-madras-whatsapp-group/</loc>
+		<lastmod>2023-08-27T05:23:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/iit-madras-notes/</loc>
-		<lastmod>2023-08-12T05:04:59+00:00</lastmod>
+		<lastmod>2023-08-26T17:18:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/2-1-1024x643.png</image:loc>
 		</image:image>
@@ -82,6 +48,40 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/cropped-logo-IITM-190-%C3%97-100-px-5.png</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/iit-madras-graded-assignments/</loc>
+		<lastmod>2023-08-26T17:05:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/iit-madras-pyq/</loc>
+		<lastmod>2023-08-24T08:07:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/PYQ.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/qualifier-coaching/</loc>
+		<lastmod>2023-08-22T08:11:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/banner-right-image.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contact-us/</loc>
+		<lastmod>2023-08-13T07:05:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/refund-policy/</loc>
+		<lastmod>2023-08-13T06:49:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/maths-week-9-graded-assignments-iit-madras/</loc>
+		<lastmod>2023-08-12T06:55:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/privacy-policy/</loc>
+		<lastmod>2023-08-12T05:56:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/elementor-677/</loc>

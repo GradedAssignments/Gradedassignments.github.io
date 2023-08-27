@@ -12,7 +12,7 @@
 	<atom:link href="/tag/he-came-up-with-an-equation/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>IITM Student Community is created to help students to get better grades in their final examinations by providing Course lectures, Graded Assignment Solutions</description>
-	<lastBuildDate>Wed, 23 Aug 2023 07:23:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Aug 2023 18:20:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -91,8 +91,12 @@
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-8df1bd1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8df1bd1" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1187b0e" data-id="1187b0e" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2c9437c elementor-widget elementor-widget-text-editor" data-id="2c9437c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><img decoding="async" fetchpriority="high" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_1.jpg" width="816" height="1056" /><img decoding="async" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_2.jpg" width="816" height="1056" /><img decoding="async" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_3.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_4.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_5.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_6.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_7.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_8.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_9.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_10.jpg" width="816" height="1056" /><img decoding="async" loading="lazy" class="alignnone size-medium" src="https://gradedassignments.github.io/pdf/m2/Week-2-IIT-Madras-Maths-Graded-Assignments_11.jpg" width="816" height="1056" /></p>						</div>
+				</div>
+					</div>
 		</div>
 							</div>
 		</section>

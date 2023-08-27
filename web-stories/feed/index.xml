@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stories &#8211; Students Community</title>
+	<atom:link href="/web-stories/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>IITM Student Community is created to help students to get better grades in their final examinations by providing Course lectures, Graded Assignment Solutions</description>
+	<lastBuildDate>Fri, 25 Aug 2023 18:02:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/08/cropped-logo-IITM-190-×-100-px-5-150x150.png</url>
+	<title>Stories &#8211; Students Community</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Last Tips For IIT Madras BSc Degree End Term</title>
+		<link>/web-stories/last-tips-for-iit-madras-bsc-degree-end-term-exam/</link>
+		
+		<dc:creator><![CDATA[KHUSHI]]></dc:creator>
+		<pubDate>Fri, 25 Aug 2023 18:02:17 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=web-story#038;p=1389</guid>
+
+					<description><![CDATA[		<div class="wp-block-web-stories-embed alignnone">
+			<a href="/web-stories/last-tips-for-iit-madras-bsc-degree-end-term-exam/">
+									<img
+						src="/wp-content/uploads/2023/08/cropped-iit-Madras-jpg.webp"
+						width="360"
+						height="600"
+						alt="Last Tips For IIT Madras BSc Degree End Term"
+													srcset="/wp-content/uploads/2023/08/cropped-iit-Madras-jpg.webp 640w, /wp-content/uploads/2023/08/cropped-iit-Madras-jpg-225x300.webp 225w, /wp-content/uploads/2023/08/cropped-iit-Madras-jpg-150x200.webp 150w"
+																			sizes="(max-width: 640px) 100vw, 640px"
+												loading="lazy"
+						decoding="async"
+					/>
+								</a>
+		</div>
+		]]></description>
+										<content:encoded><![CDATA[		<div class="wp-block-web-stories-embed alignnone">
+			<a href="/web-stories/last-tips-for-iit-madras-bsc-degree-end-term-exam/">
+									<img
+						src="/wp-content/uploads/2023/08/cropped-iit-Madras-jpg.webp"
+						width="360"
+						height="600"
+						alt="Last Tips For IIT Madras BSc Degree End Term"
+													srcset="/wp-content/uploads/2023/08/cropped-iit-Madras-jpg.webp 640w, /wp-content/uploads/2023/08/cropped-iit-Madras-jpg-225x300.webp 225w, /wp-content/uploads/2023/08/cropped-iit-Madras-jpg-150x200.webp 150w"
+																			sizes="(max-width: 640px) 100vw, 640px"
+												loading="lazy"
+						decoding="async"
+					/>
+								</a>
+		</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
